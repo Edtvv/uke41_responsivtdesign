@@ -338,3 +338,7 @@ main > section:nth-child(3) {
     background-color: #1e4772;
     color: white;
 }
+.btn {
+    display: inline-block;
+    line-height: 1.5;
+}
